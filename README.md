@@ -31,13 +31,6 @@
 - Para ingresar al mercado brasileño, el tema de la logística es crucial. 
 - Realizaremos un análisis de las principales métricas de logística para comprender los desafíos y oportunidades en este aspecto.
 
-- Análisis de satisfacción del cliente: 
-- Examinaremos las encuestas de satisfacción enviadas a los clientes después de recibir los productos. 
-- Con esto, podremos identificar la tendencia de compra y evaluar la satisfacción del cliente en general.
-
-- Análisis de métodos de pago: 
-- Agregaremos los datos de los métodos de pago utilizados por los clientes para obtener una visión general de las preferencias de pago en el mercado de E-Commerce en Brasil.
-
 
 ## Stack Tecnológico
 
