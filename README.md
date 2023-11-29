@@ -38,13 +38,11 @@
 - Análisis de métodos de pago: 
 - Agregaremos los datos de los métodos de pago utilizados por los clientes para obtener una visión general de las preferencias de pago en el mercado de E-Commerce en Brasil.
 
-- Reconocimiento a los mejores vendedores: 
-- Colaboraremos con el equipo de ventas y productos para identificar a los 10 mejores vendedores con un excelente desempeño en sus respectivas categorías. 
-- Esto ayudará a planificar una ceremonia de premiación para reconocer su éxito.
 
 ## Stack Tecnológico
 
 Durante el desarrollo de este proyecto, utilizaremos las siguientes tecnologías y herramientas:
+
 - Power BI: Utilizaremos Power BI para el diseño y creación de un tablero de visualización de datos interactivo y dinámico.
 - MySQL: Utilizaremos MySQL como base de datos para almacenar y gestionar los datos del proyecto.
 - Google Colab: Utilizaremos Google Colab como entorno de desarrollo para el análisis exploratorio de datos, modelado predictivo y visualización de datos.
@@ -66,7 +64,7 @@ El proyecto requerirá abordar las siguientes necesidades:
 El alcance del proyecto incluirá:
 - Análisis de datos de ventas y segmentación del cliente.
 - Desarrollo de indicadores de rendimiento clave (KPIs) para evaluar el desempeño del mercado.
-- Generación de un informo con conclusiones y recomendaciones basadas en el análisis de los datos.
+- Generación de un informe con conclusiones y recomendaciones basadas en el análisis de los datos.
 - Diseño y creación de un tablero interactivo en Power BI para visualizar los resultados y facilitar el acceso a la información relevante.
 
 ## Limitaciones del Proyecto
