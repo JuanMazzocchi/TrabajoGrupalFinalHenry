@@ -98,11 +98,11 @@ El alcance del proyecto incluirá:
 
 ## Productos:
 
-Semana 1: Propuesta del proyecto.
-Semana 2: Workflow
-Selección del stack tecnologico y justificación.
-Semana 3:
-Semana 4: 
+- Semana 1: Propuesta del proyecto.
+- Semana 2: Workflow
+- Selección del stack tecnologico y justificación.
+- Semana 3:
+- Semana 4: 
 
 ## PRIMERA SEMANA:
 
