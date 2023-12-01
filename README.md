@@ -15,7 +15,13 @@
 
 # Proyecto Olist: Análisis del Mercado de E-Commerce en Brasil
 
-¡Bienvenido al proyecto Olist! En este proyecto, analizaremos datos del mercado para ayudar a la empresa Olist a evaluar la posibilidad de expandirse a este país. A través de la exploración y análisis de los conjuntos de datos proporcionados, generaremos un informe que permita proyectar el comportamiento del mercado de E-Commerce en Brasil. A continuación, se detallan los objetivos específicos, el stack tecnológico utilizado y las necesidades del proyecto.
+¡Bienvenido al proyecto Olist! 
+
+En este proyecto, analizaremos datos del mercado para ayudar a la empresa Olist a evaluar la posibilidad de expandirse a este país. A través de la exploración y análisis de los conjuntos de datos proporcionados, generaremos un informe que permita proyectar el comportamiento del mercado de E-Commerce en Brasil. A continuación, se detallan los objetivos específicos, el stack tecnológico utilizado y las necesidades del proyecto.
+
+
+
+
 
 ## Objetivos
 
@@ -68,11 +74,16 @@ Es importante tener en cuenta las siguientes limitaciones del proyecto:
 
 ## Integrantes de equipo
 
-Mazzocchi Juan Alberto
-Alejandra Werbach
-Cecilia Isabel Gómez
-Melissa Flores
-Valeria Urdininea
+<div align="center">
+    
+| Team member            | GitHub                                                                    |
+|:----------------------:|:-------------------------------------------------------------------------:|
+| Mazzocchi Juan Alberto |                                                                           |
+| Alejandra Werbach      |                                                                           |
+| Cecilia Isabel Gómez   |                                                                           |
+| Melissa Flores         |                                                                           |
+| Valeria Urdininea      |                                                                           |                                                                                           
+</div>
 
 
 ## Disclaimer 
