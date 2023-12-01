@@ -130,7 +130,7 @@ Es importante tener en cuenta las siguientes limitaciones del proyecto:
 
 <div align="center">
     
-| Team member            | GitHub                                                                    |
+| Miembros del equipo    | GitHub                                                                    |
 |:----------------------:|:-------------------------------------------------------------------------:|
 | Mazzocchi Juan Alberto |                                                                           |
 | Alejandra Werbach      |                                                                           |
