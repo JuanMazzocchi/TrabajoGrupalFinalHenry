@@ -88,14 +88,13 @@ El alcance del proyecto incluirá:
 
 ## Solución propuesta:
 
-Base de datos: MySQL
-
--Almacén de datos: GCP
--Automatización:
--ETL: Python
--Visualización: PowerBI
--Aprendizaje automático: 
--Metodología de trabajo:
+- Base de datos: MySQL
+- Almacén de datos: GCP
+- Automatización:
+- ETL: Python
+- Visualización: PowerBI
+- Aprendizaje automático: 
+- Metodología de trabajo:
 
 ## Productos:
 
