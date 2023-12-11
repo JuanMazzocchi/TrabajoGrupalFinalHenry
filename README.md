@@ -74,6 +74,7 @@ Durante el desarrollo de este proyecto, utilizaremos las siguientes tecnologías
 - Numpy, Pandas: Utilizaremos estas bibliotecas de Python para la manipulación y análisis de los datos.
 - Scikit-learn: Utilizaremos Scikit-learn para el modelado predictivo y construcción de modelos de machine learning, si es necesario.
 - GCP (Google Cloud Platform): Podemos utilizar GCP para el almacenamiento y procesamiento de grandes volúmenes de datos, si es necesario.
+  Librerias utilizadas:
 - streamlit
 - pandas
 - Matplotlib
