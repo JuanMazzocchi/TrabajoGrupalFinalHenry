@@ -42,6 +42,8 @@ Semana 2:
 
 En esta semana se realizó la extracción y transformación de datos (ETL) utilizando Python, y la carga se hizo con MySQL en un almacén de datos ubicado en Google Cloud Storage. 
 
+Semana
+
 
 ## Objetivos
 
@@ -69,6 +71,16 @@ Durante el desarrollo de este proyecto, utilizaremos las siguientes tecnologías
 - Numpy, Pandas: Utilizaremos estas bibliotecas de Python para la manipulación y análisis de los datos.
 - Scikit-learn: Utilizaremos Scikit-learn para el modelado predictivo y construcción de modelos de machine learning, si es necesario.
 - GCP (Google Cloud Platform): Podemos utilizar GCP para el almacenamiento y procesamiento de grandes volúmenes de datos, si es necesario.
+- streamlit
+- pandas
+- Matplotlib
+- Seaborn
+- numpy
+- prophet
+- mplcyberpunk
+- streamlit-echarts>=0.4.0
+- Plotly>=5.18.0
+- Json
 
 ## Necesidades
 
@@ -81,40 +93,37 @@ El proyecto requerirá abordar las siguientes necesidades:
 ## Alcance del Proyecto
 
 El alcance del proyecto incluirá:
+
 - Análisis de datos de ventas y segmentación del cliente.
 - Desarrollo de indicadores de rendimiento clave (KPIs) para evaluar el desempeño del mercado.
 - Generación de un informe con conclusiones y recomendaciones basadas en el análisis de los datos.
-- Diseño y creación de un tablero interactivo en Power BI para visualizar los resultados y facilitar el acceso a la información relevante.
+- Diseño y creación de un tablero interactivo en Power BI para visualizar los resultados y facilitar el acceso a la información relevante y realización de un tablero en Streamlit con módelos predictivos..
 
 ## Solución propuesta:
 
 - Base de datos: MySQL
 - Almacén de datos: GCP
-- Automatización:
 - ETL: Python
 - Visualización: PowerBI
-- Aprendizaje automático: 
-- Metodología de trabajo:
+- Aprendizaje automático: Streamlit 
+- Metodología de trabajo: SCRUM
 
 ## Productos:
 
 - Semana 1: Propuesta del proyecto.
 - Semana 2: Workflow
 - Selección del stack tecnologico y justificación.
-- Semana 3:
-- Semana 4: 
+- Semana 3: MVP y arquitectura propuesta.
+- Semana 4: Entrega de producto. Tablero POWER BI y Tablero Sreamlit
 
 ## PRIMERA SEMANA:
 
 Realizamos una investigación de mercado y de la empresa. En cuanto a los datos disponibles para llevar a cabo el proyecto, realizamos una revisión de la calidad de los mismos para visualizar su estructura general a la vez que establecimos los objetivos y los KPI.
 
-Planificación de actividades: Diagrama de Gantt.
-
--FOTO DE GANTT-
-
 DER preliminar
 
--imagen del der-
+[-imagen del der-]
+(https://miro.com/app/board/uXjVNI8l3bs=/)
 
 ## SEGUNDA SEMANA
 
