@@ -132,6 +132,8 @@ DER preliminar
 
 Comenzamos con el proceso de ETL, una vez que estos datos fueron limpiados se llevó a cabo la creación del datawarehouse. 
 
+
+
 ## Limitaciones del Proyecto
 
 Es importante tener en cuenta las siguientes limitaciones del proyecto:
