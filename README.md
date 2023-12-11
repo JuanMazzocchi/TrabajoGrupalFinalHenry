@@ -42,7 +42,10 @@ Semana 2:
 
 En esta semana se realizó la extracción y transformación de datos (ETL) utilizando Python, y la carga se hizo con MySQL en un almacén de datos ubicado en Google Cloud Storage. 
 
-Semana
+https://github.com/JuanMazzocchi/TrabajoGrupalFinalHenry/tree/main/Cuadernos
+
+
+Semana 3: 
 
 
 ## Objetivos
