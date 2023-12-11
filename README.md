@@ -122,7 +122,7 @@ Realizamos una investigación de mercado y de la empresa. En cuanto a los datos 
 
 DER preliminar
 
-[-imagen del der-]
+
 (https://miro.com/app/board/uXjVNI8l3bs=/)
 
 ## SEGUNDA SEMANA
